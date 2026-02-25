@@ -61,8 +61,8 @@
 
 .header__address {
   display: flex;
-   justify-self: end;
-  padding-right: 85px;  
+  justify-self: end;
+  padding-right: 85px;
 }
 
 .cover {
@@ -83,7 +83,7 @@
 
 .cover__title {
   flex-direction: column;
-  justify-content: space-between; 
+  justify-content: space-between;
   position: relative;
   text-transform: uppercase;
   z-index: 3;
@@ -104,8 +104,8 @@
 
 .aligned-text_center {
   text-align: center;
-   padding-top: 19px;
-   padding-left: 30px;
+  padding-top: 19px;
+  padding-left: 30px;
 }
 
 .aligned-text_right {
@@ -288,7 +288,7 @@
 .footer__menu {
   text-align: center;
   padding: 0px 50px;
-   margin-bottom: 110px; 
+  margin-bottom: 110px;
 }
 
 .footer__menu-list {
@@ -316,7 +316,7 @@
   list-style-type: none;
   gap: 48px;
   padding: 0px 50px 0px 90px;
-  margin-bottom: 120px; 
+  margin-bottom: 120px;
 }
 
 .footer__social-list-item {
